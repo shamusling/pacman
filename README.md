@@ -1,6 +1,6 @@
 ##
-# pacman
-
+# Pacman
+##
 A simple pacman game
 
 
