@@ -1,3 +1,3 @@
 # pacman
 
-# It is just a simple pacman game
+A simple pacman game
