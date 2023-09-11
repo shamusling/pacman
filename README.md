@@ -4,5 +4,6 @@
 A simple pacman game
 
 
+Check Latest Release
 Download link:\
-https://github.com/shamusling/pacman/releases/download/v4.6/pacman4.6.zip 
+https://github.com/shamusling/pacman/releases
